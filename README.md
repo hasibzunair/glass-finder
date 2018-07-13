@@ -1,5 +1,6 @@
 # glass-finder
 
+A simple device which can help people to find their glasses. 
 On going project...<br>
 
 # Schematic
